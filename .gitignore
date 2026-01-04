@@ -1,0 +1,31 @@
+# Windows
+Thumbs.db
+desktop.ini
+
+# PowerShell
+*.ps1.bak
+
+# Logs
+*.log
+
+# Temporales
+*.tmp
+*.temp
+
+# Evidencias grandes (se añadirán por control)
+*.raw
+*.img
+*.dd
+*.mem
+*.vmem
+*.vmdk
+
+# Volcado de memoria
+*.dmp
+
+# IDEs / editores
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
