@@ -106,19 +106,19 @@ Quedan fuera del alcance:
 
 
 
-Para este escenario se proporcionan las siguientes evidencias:
 
+Las evidencias utilizadas en este escenario no se incluyen directamente en el repositorio debido a su tamaño.
 
+El volcado de memoria RAM puede descargarse desde la sección **Releases** del proyecto:
 
-\- Volcado de memoria RAM del sistema afectado
+- **Scenario 01 – Initial Access – Evidence**
 
-\- Imagen de disco (o artefactos relevantes)
+El paquete incluye:
+- Volcado de memoria RAM (Windows 10)
+- Archivo de hashes SHA256 para verificación de integridad
 
-\- Logs básicos del sistema (si aplica)
+Antes de comenzar el análisis, se recomienda verificar la integridad del archivo descargado.
 
-
-
-Las evidencias deben tratarse como \*\*inmutables\*\*.
 
 
 
